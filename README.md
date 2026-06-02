@@ -9,6 +9,4 @@ My personal project exploring the intersections of various fields through intens
 | 02 | [Combinatorics](./sprints/02-combinatorics) | 3 Days | 📅 Upcoming |
 | 03 | [Astrophysics](./sprints/03-astrophysics) | 2 Days | 📅 Upcoming |
 
-## 🛠️ Goals
-- Avoid "brainless" consumption.
-- Build one practical artifact per sprint.
+Stay tuned!
